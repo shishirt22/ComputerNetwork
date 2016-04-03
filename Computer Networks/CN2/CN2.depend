@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1453814858 source:/home/shishir/Documents/Computer Networks/CN2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../service_cord.c"
+
+1453438163 /home/shishir/Documents/Computer Networks/multi_pipe.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1453436792 /home/shishir/Documents/Computer Networks/sample.c
+	<stdio.h>
+	<unistd.h>
+
+1453478465 /home/shishir/Documents/Computer Networks/chat_server.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<poll.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+	<errno.h>
+
+1453627183 /home/shishir/Documents/Computer Networks/testing/test.c
+	<stdio.h>
+	<fcntl.h>
+	<poll.h>
+	<unistd.h>
+	<errno.h>
+	<signal.h>
+
+1453875582 /home/shishir/Documents/Computer Networks/service_cord.c
+	<stdio.h>
+	<fcntl.h>
+	<poll.h>
+	<unistd.h>
+	<stdlib.h>
+	<signal.h>
+	<string.h>
+	"semaphore.h"
+
+1453813976 /home/shishir/Documents/Computer Networks/semaphore.h
+	<sys/ipc.h>
+	<sys/sem.h>
+	<sys/types.h>
+

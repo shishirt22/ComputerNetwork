@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453388362 source:/home/shishir/Documents/Computer Networks/CN/main.c
+	<stdio.h>
+	<stdlib.h>
+
